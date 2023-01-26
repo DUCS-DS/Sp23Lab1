@@ -1,3 +1,6 @@
+#
+#  PLEASE PUT YOUR NAME HERE
+#
 
 def FindMax(lst):
     """return the maximum element"""
